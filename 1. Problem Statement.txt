@@ -1,0 +1,21 @@
+Problem Statement:
+
+KPI's Requirment:
+we need to analyze key indicator for our pizza sales data to gain insights into our 
+business performance. Specifically, we want to calculate the following Metrics:
+1. Total Revenue
+2. Average Order value
+3. Total Pizza Sold
+4. Total Order
+5. Average Pizzas per order
+
+
+Chart Requirment:
+we would like to visulize various aspects of our pizza sales data to gain insights and understands key trends. We have identified the following requirement for creating charts.
+1. Daily Trend for Total Orders.
+2. Hourly Trend for Total Orders.
+3. Percentage of Sales by Pizza Category.
+4. Percentage of Sales by pizza size.
+5. Total Pizza Sold by pizza category.
+6. Top 5 Best Sellers by Total Pizza Sold.
+7. Bottom 5 Worst Sellers By Total Pizza Sold.
